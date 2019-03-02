@@ -1,2 +1,2 @@
 # linear_reg_from_scratch
- linear_regression written from scratch
+ simple_linear_regression of one variable written from scratch
